@@ -1,6 +1,6 @@
 ## Hi there, I'm Euclides Freire <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
-### I'm a Dev, Graduating in Computer Engineering! Passionate about people and Tech!
+I'm a Dev, Graduating in Computer Engineering! Passionate about people and Tech!
 
 ### Connect with me:
 [<img align="left" alt="Euclides | LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
