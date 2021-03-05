@@ -3,7 +3,7 @@
 Graduating in Computer Engineering and Passionate about people and Tech!
 
 ### Connect with me:
-[<img align="left" alt="Euclides | LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[linkedin]
 [<img align="left" alt="Euclides | Instagram" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/> <br/>
