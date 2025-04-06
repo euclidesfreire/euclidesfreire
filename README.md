@@ -9,7 +9,7 @@ Graduating in Computer Engineering and Passionate about people and Tech!
 <br/> <br/>
 
 <a href="https://github.com/euclidesfreire">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=euclidesfreire&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=euclidesfreire&layout=compact&theme=radical&langs_count=10" />
 </a>
 
 
